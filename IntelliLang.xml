@@ -1,0 +1,12 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>Logger.error (org.slf4j)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("error").withParameters("java.lang.String", "java.lang.Object", "java.lang.Object").definedInClass("org.slf4j.Logger"))]]></place>
+    </injection>
+    <injection language="DTD" injector-id="xml">
+      <display-name>beans/@schemaLocation</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("schemaLocation")).withNamespace(string().equalTo("http://www.w3.org/2001/XMLSchema-instance")).withParent(xmlTag().withLocalName(string().equalTo("beans")).withNamespace(string().equalTo("http://www.springframework.org/schema/beans")))]]></place>
+    </injection>
+  </component>
+</application>
