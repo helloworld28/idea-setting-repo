@@ -20,7 +20,7 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
-  <action id="TogglePresentationMode">
+  <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
