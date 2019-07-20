@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="CustomHolderTaskMapper" type="DTD" />
       <mapping pattern="Robots" type="JavaScript" />
+      <mapping pattern="staggered_crossing_points" type="PLAIN_TEXT" />
       <mapping pattern="high_holder_node.json" type="PLAIN_TEXT" />
       <mapping pattern="Robots.json" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
