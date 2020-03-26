@@ -1,0 +1,17 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="CustomHolderTaskMapper" type="DTD" />
+      <mapping pattern="Robots" type="JavaScript" />
+      <mapping pattern="high_holder_node.json" type="PLAIN_TEXT" />
+      <mapping pattern="Robots.json" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="robots" type="PLAIN_TEXT" />
+      <mapping ext="fsmjava" type="PLAIN_TEXT" />
+      <mapping ext="properites" type="PLAIN_TEXT" />
+      <mapping ext="propertis" type="PLAIN_TEXT" />
+      <mapping ext="xm" type="XML" />
+      <mapping ext="factorie" type="spring.factories" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,11 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="scala.concurrent.duration.FiniteDuration.FiniteDuration(length,unit)" />
+        <added pattern="org.apache.commons.lang.time.DateUtils.addHours(date,amount)" />
+        <added pattern="com.jim.java8.threads.ThreadInvoker.ThreadFoo.ThreadFoo(threadName,nextThread)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
