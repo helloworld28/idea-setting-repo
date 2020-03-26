@@ -3,8 +3,4 @@
     <option name="UI_SHOW_FILES" value="false" />
     <option name="UI_SHOW_MODULES" value="false" />
   </component>
-  <component name="UISettings">
-    <option name="MAX_LOOKUP_WIDTH2" value="756" />
-    <option name="MERGE_EQUAL_STACKTRACES" value="false" />
-  </component>
 </application>
